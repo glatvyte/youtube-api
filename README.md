@@ -1,3 +1,7 @@
+It is a Youtube browser application made with React and Youtube API. 
+
+Your Youtube API key can be created by using Google API library. Choose Youtube Data API v3.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
